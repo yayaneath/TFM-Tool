@@ -1,0 +1,9 @@
+Clump_Thick
+Uniform_Cell_Size
+Uniform_Cell_Shape
+Marginal_Adhes
+Epit_Size
+Bare_Nuclei
+Bland_Chrom
+Norm_Nucleoli
+Mitoses
