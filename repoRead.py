@@ -7,7 +7,7 @@ import sys, requests, urllib, json, time, re, argparse, csv
 
 DATASETS_FOLDER = 'datasets'
 
-DATAVERSE_API_KEY = 'aa7b80fd-db9d-4f10-a33c-8f0879d0160d'
+DATAVERSE_API_KEY = 'XXXX-XXXX'
 SEARCH_API_POINT = 'https://dataverse.harvard.edu/api/search?'
 DATASET_API_POINT = 'https://dataverse.harvard.edu/api/datasets/:persistentId/?'
 FILEACCESS_API_POINT = 'https://dataverse.harvard.edu/api/access/datafile/'
